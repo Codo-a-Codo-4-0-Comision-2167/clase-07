@@ -10,7 +10,6 @@ bgcolor="lightblue"
     font-size: x-large;
     /*font-size: 2rem;*/
     /*font-family: fantasy; /* En mi caso tengo esta font y la uso*/
-  
 }
 
 body {
@@ -53,4 +52,8 @@ body > table > tbody > tr {
 
 ul, h2 {
     color: white;
+}
+
+.fa-cloud {
+    color: red;
 }
