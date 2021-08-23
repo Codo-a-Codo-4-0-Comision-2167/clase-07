@@ -6,6 +6,13 @@ SELECTOR {
 bgcolor="lightblue"
 */
 
+* {
+    font-size: x-large;
+    /*font-size: 2rem;*/
+    /*font-family: fantasy; /* En mi caso tengo esta font y la uso*/
+  
+}
+
 body {
     background-color:black;
 }
@@ -13,6 +20,7 @@ body {
 footer {
     background-color:mediumorchid;
     color: white;
+    font-family: 'Klee One', cursive;
 }
 
 header {
